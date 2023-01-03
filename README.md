@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     - How to speak German
     - Swing dancing
 - 👯 On my free time I like to explore computational art:
-    - I develop an app to make nice colorful geometric drawings called [CraZeApp](https://instagram.com)
+    - I develop an app to make nice colorful geometric drawings called [CraZeApp](https://instagram.com/crazeapp)
     - You can find it for free for [iOS](https://apps.apple.com/us/app/crazeapp/id1543581885) and [Android](https://play.google.com/store/apps/details?id=com.zubieta.craze&hl=en&gl=US)!
     - Also enjoy using Kotlin (Android), Swift (iOS), Processing/P5js, OpenRNDR, and sensors like the [Kinect](https://www.youtube.com/watch?v=ofwf_CFI8E0) to develop my app or any other artistic coding
 - 🚀 I want to learn about:
