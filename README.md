@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Backend Engineer working on the geospatial/remote sensing industry:
     - Currently working with _Kotlin, Java 11, Spring Boot, PostgreSQL, Kubernetes, GCP, GCS, PubSub, OpenAPI, Stripe, SendGrid_
-    - Also have previous professional experience with _Java 8, Perl, Python, PySpark, Jupyter, MySQL, Cassandra, Hive, Kafka, Oozie_
+    - Also have previous professional experience with _Python 3.x, Java 8, Perl, PySpark, Jupyter, MySQL, Cassandra, Hive, Kafka, Oozie_
     - You can find more about my work at [LinkedIn](https://www.linkedin.com/in/zubie7a/)!
 - 🌱 I’m currently learning:
     - Machine learning from a theoretical perspective and its practical engineering
