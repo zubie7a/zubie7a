@@ -19,10 +19,10 @@ Here are some ideas to get you started:
     - Currently working with _Kotlin, Java 11, Spring Boot, PostgreSQL, Kubernetes, GCP, GCS, PubSub, OpenAPI, Stripe, SendGrid_
     - Also have previous professional experience with _Python 3.x, Java 8, Perl, PySpark, Jupyter, MySQL, Cassandra, Hive, Kafka, Oozie_
     - You can find more about my work at [LinkedIn](https://www.linkedin.com/in/zubie7a/)!
-- 🌱 I’m currently learning:
+- 🌱 What I'm learning now:
+    - Constantly things about system design and architecture of distributed systems
     - Machine learning from a theoretical perspective and its practical engineering
-    - How to speak German
-    - Swing dancing
+    - How to speak German!
 - 👯 On my free time I like to explore computational art:
     - I develop an app to make nice colorful geometric drawings called [CraZeApp](https://instagram.com/crazeapp)
     - You can find it for free for [iOS](https://apps.apple.com/us/app/crazeapp/id1543581885) and [Android](https://play.google.com/store/apps/details?id=com.zubieta.craze&hl=en&gl=US)!
