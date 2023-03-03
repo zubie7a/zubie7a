@@ -31,6 +31,5 @@ Here are some ideas to get you started:
     - Creating music with code
     - Shaders/OpenGL
     - Relearn all the statistics and maths I forgot since university
-- 📫 How to reach me: [@zubie7a](https://twitter.com/zubie7a)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love guacamole 🥑
