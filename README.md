@@ -24,8 +24,9 @@ Here are some ideas to get you started:
     - Machine learning from a theoretical perspective and its practical engineering
     - How to speak German!
 - 👯 On my free time I like to explore computational art:
-    - I develop an app to make nice colorful geometric drawings called [CraZeApp](https://instagram.com/crazeapp)
-    - You can find it for free for [iOS](https://apps.apple.com/us/app/crazeapp/id1543581885) and [Android](https://play.google.com/store/apps/details?id=com.zubieta.craze&hl=en&gl=US)!
+    - I develop apps to make nice art with geometry and patterns such as [CraZeApp](https://instagram.com/crazeapp) and [MaZeArtApp](https://instagram.com/mazeartapp)
+    - You can find CraZeApp for free for [iOS](https://apps.apple.com/us/app/crazeapp/id1543581885) and [Android](https://play.google.com/store/apps/details?id=com.zubieta.craze&hl=en&gl=US)
+    - You can find MaZeArtApp for free for [iOS](https://apps.apple.com/us/app/mazeartapp/id6454847211)
     - Also enjoy using Kotlin (Android), Swift (iOS), Processing/P5js, OpenRNDR, and sensors like the [Kinect](https://www.youtube.com/watch?v=ofwf_CFI8E0) to develop my app or any other artistic coding
 - 🚀 I want to learn about:
     - Creating music with code
