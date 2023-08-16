@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 - 🚀 I want to learn about:
     - Creating music with code
     - Shaders/OpenGL
-    - Relearn all the statistics and maths I forgot since university
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love guacamole 🥑
