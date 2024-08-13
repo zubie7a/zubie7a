@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Backend Engineer:
-    - Currently working with _Kotlin, Java 17, Spring Boot, PostgreSQL, Kubernetes, GCP, GCS, PubSub, OpenAPI, Stripe, SendGrid_
+- 🔭 I’m a Senior Backend Engineer:
+    - Currently working with _Golang, Kotlin, Java 17, Spring Boot, PostgreSQL, Kubernetes, GCP, GCS, PubSub, OpenAPI, Stripe, SendGrid_
     - Also have previous professional experience with _Python 3.x, Java 8, Perl, PySpark, Jupyter, MySQL, Cassandra, Hive, Kafka, Oozie_
     - You can find more about my work at [LinkedIn](https://www.linkedin.com/in/zubie7a/)!
 - 🌱 What I'm learning now:
