@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Senior Backend Engineer:
-    - Currently working with _Golang, Kotlin, Java 17, Spring Boot, PostgreSQL, Kubernetes, GCP, GCS, PubSub, OpenAPI, Stripe, SendGrid_
-    - Also have previous professional experience with _Python 3.x, Java 8, Perl, PySpark, Jupyter, MySQL, Cassandra, Hive, Kafka, Oozie_
+    - Currently working with _Golang, Python 3.x, PostgreSQL, Kubernetes, AWS, Kafka, RabbitMQ, OpenAPI, Stripe, SendGrid, Grafana_
+    - Also have previous professional experience with _Java 17, Kotlin, Spring Boot, Perl, PySpark, Jupyter, Cassandra, Hive, Oozie, GCP, GCS, PubSub_
     - You can find more about my work at [LinkedIn](https://www.linkedin.com/in/zubie7a/)!
 - 🌱 What I'm learning now:
     - Constantly things about system design and architecture of distributed systems
